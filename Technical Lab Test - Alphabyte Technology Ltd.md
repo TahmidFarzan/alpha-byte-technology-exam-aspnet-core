@@ -22,7 +22,7 @@ Build a web application CRUD operation using .NET/.NET Core & MVC framework (boo
 | - | - | - | - |
 |XXX.XXX.XXX.XXX |XXXXXXXX |XXXXXXXXXXXX |XX |
 
-Data table data will be loaded from database table. Here is the Data table example and description: 
+Data table data will be loaded from the database table. Here is the Data table example and description: 
 
 |**ID NUMBER** |**NAME** |**DIVISION** |**Department** |**Date of Birth** |**Age** |**Resume** |**Action** |
 | - | - | - | - | :- | - | - | - |
@@ -31,7 +31,7 @@ Data table data will be loaded from database table. Here is the Data table examp
 - **In the data table** the resume file name needs to be clickable and after clicking the file needs to be downloaded. 
 - **In the data table,** the view button (action section) at the right side once clicked needs to show the person's information in a pop-up/ separate page. 
 - **In the data table,** the edit button (action section) at the right side, should go to the edit page for information updates. 
-- **In the data table,** the delete button (action section) at the right side, should take user consent before deleting the row. 
+- **In the data table,** the delete button (action section) on the right side, should take user consent before deleting the row. 
 - **In the data table,** age will be calculated from date of birth to current date. 
 
-If you have any questions feel free to contact us[ career@alphabytetech.com ](mailto:career@alphabytetech.com)
+If you have any questions feel free to contact us at [ career@alphabytetech.com ](mailto:career@alphabytetech.com)
